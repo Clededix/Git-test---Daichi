@@ -1,9 +1,12 @@
 p{
-    color:rgb(255, 231, 231);
+    color:rgb(165, 116, 42);
     text-decoration: dashed;
 }
 
 h2{
+HEAD
     background-color: rgb(221, 216, 239);
     height: 150px;
+}
+h3{color:rgb(165, 83, 42)
 }
