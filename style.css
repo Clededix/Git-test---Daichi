@@ -10,3 +10,8 @@ HEAD
 }
 h3{color:rgb(165, 83, 42)
 }
+
+a{
+    color: black;
+    font-weight: thin;
+}
