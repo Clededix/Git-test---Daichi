@@ -1,9 +1,9 @@
 p{
-    color:brown;
+    color:rgb(255, 231, 231);
     text-decoration: dashed;
 }
 
 h2{
-    background-color: black;
-    height: 100px;
+    background-color: rgb(221, 216, 239);
+    height: 150px;
 }
